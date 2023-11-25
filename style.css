@@ -1,8 +1,6 @@
 /* GENERAL */
 
-@import url("");
-/* Se implementa el link de la fuente  deseada
-(Falta de buscar, descargar e insertar la feunte) */
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@700&display=swap');
 
 * {
     margin: 0;
@@ -10,9 +8,7 @@
 }
 
 body {
-    font-family: "", sans-serif;
-    /*Entre las comillas se inserta
-    el nombre de el tipo de fuente que descargamos.*/
+    font-family: 'Caveat', cursive;
 }
 
 html {
